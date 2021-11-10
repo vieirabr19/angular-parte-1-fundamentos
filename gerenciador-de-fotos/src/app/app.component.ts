@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'gerenciador-de-fotos';
+  title = 'Leão';
+  url= 'https://i.ytimg.com/vi/W8GnWjW8Kaw/hqdefault.jpg';
 }
